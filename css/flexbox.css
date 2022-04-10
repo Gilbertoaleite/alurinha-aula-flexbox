@@ -77,6 +77,9 @@ margin-right: 5%;
 @media screen and (max-width: 768px){
    
 
+   .cabecalhoPrincipal-nav-link-app{
+      order: 0;
+   }
 .cabecalhoPrincipal-nav{
    flex-direction: column;
 }
@@ -117,8 +120,11 @@ margin-right: 5%;
    justify-content:center;
 }
 
-.cabecalhoPrincipal-nav-link-app{
-   order: 0;
+.videoSobre .container{
+flex-wrap: wrap;
+
+
 }
+
 
 }
